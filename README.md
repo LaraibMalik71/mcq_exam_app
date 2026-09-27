@@ -165,7 +165,7 @@ flutter run
 
 ## 👤 Author
 
-**Your Name**
+**Laraib Malik**
 📧 hh2999720@gmail.com
 🔗 [GitHub Profile](https://github.com/LaraibMalik71)
 
